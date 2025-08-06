@@ -1,0 +1,2 @@
+# Sneakers-Streetwear-Sales-2022-A-Data-Driven-Market-Analysis-With-Microsoft-Excel-
+This dataset shows the different product type, highlighting its brand and category, different countries the products are purchased in and different payment modes used. Using Excel to Analyze these factors that will help the industries to understand market demand, customer behavior, and opportunities for expansion.
