@@ -119,7 +119,7 @@ By applying these insights, companies can:
 
 ---
 ## 📊 Dashboard Preview
-
+![Dashboard](https://github.com/Rosemary-Nnenna/Sneakers-Streetwear-Sales-2022-A-Data-Driven-Market-Analysis-With-Microsoft-Excel-/blob/main/Sneakers%20Dashboard.png)
 
 ---
 
@@ -130,6 +130,6 @@ By applying these insights, companies can:
 ---
 
 ## 📧 Contact
-**Your Name**  
-GitHub: [YourGitHubProfile](https://github.com/YourGitHubProfile)  
+**Rosemary N**  
+GitHub: [MyGitHubProfile]([https://github.com/YourGitHubProfile](https://github.com/Rosemary-Nnenna))  
 LinkedIn:**[Let's Connect](https://www.linkedin.com/in/rosemary-ajaezo-1122b6376/)**  
