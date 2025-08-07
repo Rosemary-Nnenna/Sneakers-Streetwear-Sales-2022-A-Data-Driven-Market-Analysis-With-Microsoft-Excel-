@@ -69,3 +69,67 @@ These insights can guide **business decisions** to improve growth and profitabil
 - **Line Chart** – Monthly sales trends  
 
 ---
+
+## 📈 Key Insights
+### **Top Brand by Amount**
+1. Nike – $67,975.58  
+2. Adidas – $36,858.43  
+3. Off-White – $24,214.82  
+
+### **Top Product Types**
+- Sneakers – $81,586.89  
+- Hoodie – $63,109.45  
+
+### **Preferred Payment Methods**
+- Wallet – 28.24%  
+- Card – 27.87%  
+### **Top Categories**
+- Casual Wear – $54,378.62  
+- Streetwear – $53,725.12  
+
+### **Gender Preferences**
+- Women – $78,150.78  
+- Men – $68,502.16  
+
+### **Top Countries**
+- Japan – $31,587.39  
+- Canada – $30,851.19  
+
+### **Monthly Sales Peak**
+- July – $32,073.43
+
+---
+
+## 💡 Recommendations
+1. **Promote low-performing products** with targeted marketing campaigns.  
+2. **Leverage peak months** (July) by ensuring high inventory levels.  
+3. **Expand in high-performing countries** like Japan and Canada.  
+4. **Focus on women’s apparel** – they represent the largest buying segment.  
+5. **Support popular payment modes** like Wallet and Card to enhance customer experience.  
+
+---
+
+## 🏁 Conclusion
+This analysis gives a **clear view of the sneaker and streetwear market** between January and August 2022.  
+By applying these insights, companies can:
+- Increase revenue  
+- Optimize marketing efforts  
+- Expand in profitable markets  
+- Align supply with demand trends
+
+---
+## 📊 Dashboard Preview
+
+
+---
+
+## 📂 Project Files
+- `Sneakers_Streetwear_Sales_2022.xlsx` – Cleaned dataset  
+- `Dashboard.xlsx` – Excel dashboard with visual insights  
+- `README.md` – Project documentation  
+---
+
+## 📧 Contact
+**Your Name**  
+GitHub: [YourGitHubProfile](https://github.com/YourGitHubProfile)  
+LinkedIn:**[Let's Connect](https://www.linkedin.com/in/rosemary-ajaezo-1122b6376/)**  
